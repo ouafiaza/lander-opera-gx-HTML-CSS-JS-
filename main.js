@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (btn) {
     btn.addEventListener("click", function (e) {
       e.preventDefault();
-      window.location.href = "https://osvyia.com/ogx/9943/";
+      window.location.href = "https://osyvia.com/ogx/9943/";
     });
   }
 });
